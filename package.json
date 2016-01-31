@@ -1,6 +1,6 @@
 {
   "name": "json-web-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple localStorage/sessionStorage wrapper providing the exact same API with automatic JSON serialization",
   "author": "Manuel Vila <mvila@3base.com>",
   "license": "MIT",
