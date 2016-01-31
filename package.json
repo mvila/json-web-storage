@@ -1,9 +1,10 @@
 {
   "name": "json-web-storage",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "Simple localStorage/sessionStorage wrapper providing the exact same API with automatic JSON serialization",
   "author": "Manuel Vila <mvila@3base.com>",
   "license": "MIT",
+  "promote": false,
   "main": "lib/index.js",
   "repository": {
     "type": "git",
