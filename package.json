@@ -1,6 +1,6 @@
 {
   "name": "json-web-storage",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Simple localStorage/sessionStorage wrapper providing the exact same API with automatic JSON serialization",
   "keywords": [
     "web-storage",
